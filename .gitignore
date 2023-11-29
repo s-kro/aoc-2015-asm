@@ -1,0 +1,8 @@
+*.dat
+*.o
+*.c
+*.s
+*~
+
+# Executables
+aoc_2015-[0-9+][a|b]
